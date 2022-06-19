@@ -1,0 +1,32 @@
+#search-title {
+    margin-left: 1.1rem;
+    color: mediumseagreen;
+}
+#voltar {
+    position: relative;
+    margin: 1rem;
+}
+
+.column-actions{
+    width: 8rem;
+}
+
+#person-name {
+    color: #c82333;
+}
+
+.show-photo {
+    height: 8rem;
+}
+
+.thumb {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .25rem;
+    border: 1px solid #0069d9;
+}
+
+.warning-login {
+    color: #c82333;
+    margin: 1rem 0;
+}
